@@ -1,0 +1,15 @@
+header {
+  background: linear-gradient(#000000b9, #121355b7),
+    url(https://netresim.com/bilesenler/dosya/dosyalar/image/galeriler/28.02.2020/oresim/study-%C4%B1n-the-library-desktop-background-wallpaper.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.titles h1 {
+  font-size: 4rem;
+}
+@media only screen and (max-width: 688px) {
+  .titles h1 {
+    font-size: 2rem;
+  }
+}

@@ -1,0 +1,15 @@
+.review-section {
+  background: url(https://wp.quomodosoft.com/utech/wp-content/uploads/2021/06/abs_bg_4.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+.avatar {
+  width: 5rem;
+}
+.carousel {
+  pointer-events: none;
+}
+.carousel button {
+  pointer-events: all !important;
+}

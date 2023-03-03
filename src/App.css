@@ -1,0 +1,51 @@
+.btn-blue {
+  background: #49a7ff;
+}
+.btn-blue:hover {
+  background: #296cff;
+}
+.single-card {
+  background: #082336;
+  color: #fff;
+}
+.single-card img {
+  border-radius: 50%;
+  background: #fff;
+}
+.text-justify {
+  text-align: justify;
+}
+.underline {
+  width: 10rem;
+  height: 5px;
+  background: #8e8dff;
+  border-radius: 50%;
+  margin: auto;
+}
+.btn-purple {
+  background: #8e8dff;
+  color: #fff;
+}
+.btn-purple:hover {
+  background: #7572ff;
+  color: #fff;
+}
+.bg-purple {
+  background: #8e8dff;
+}
+.price {
+  border-radius: 25px;
+  width: 5rem;
+  color: #fff;
+}
+.times {
+  border-radius: 25px;
+  width: 5rem;
+  color: #ff5555;
+}
+.bg-pink {
+  background: #ffbdbd;
+}
+.h-100vh {
+  min-height: 100vh;
+}

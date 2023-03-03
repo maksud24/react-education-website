@@ -1,0 +1,5 @@
+.about-pic-div {
+  max-height: 30rem;
+  overflow: hidden;
+  background: #000;
+}

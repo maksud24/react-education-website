@@ -1,0 +1,58 @@
+[
+  {
+    "key": 1,
+    "club": "Harry Potter English Club",
+    "img": "https://i.ibb.co/qgygwfX/maxresdefault.jpg",
+    "description": " Punish to learn a lesson,  English language school has a reason. Harry Potter English Club, a new way to learn.",
+    "price": 75,
+    "duration": "3mth"
+  },
+  {
+    "key": 2,
+    "club": "Jr Einsteins Science Club",
+    "img": "https://i.ibb.co/C1drc4D/a1f1be70042483-5b966a8c6ca89.png",
+    "description": "Science is a cemetery of dead ideas. Every science begins as philosophy and ends as art. And we're the Artists!",
+    "price": 54,
+    "duration": "5mth"
+  },
+  {
+    "key": 3,
+    "club": "Little Tales",
+    "img": "https://i.ibb.co/1dqRS9B/Little-Tails-logo.png",
+    "description": "A great eye for good books. A great place to be stranded. Full of inspiration. As the Page Turns, to change our world.",
+    "price": 34,
+    "duration": "1yr"
+  },
+  {
+    "key": 4,
+    "club": "MHPNHS Mathmetics",
+    "img": "https://i.ibb.co/T1xwg07/nullus-artifex-mhpnhs-mathematics-club-logo-by-ruckusquantum-daky5lx.jpg",
+    "description": "Multiply your success! Do math, not meth! Don’t get mad, learn to add. Prepare to divide and conquer!",
+    "price": 54,
+    "duration": "3mth"
+  },
+  {
+    "key": 5,
+    "club": "Run Athletes",
+    "img": "https://i.ibb.co/jGkNNWr/running-man-silhouette-logo-finish-260nw-791077342.webp",
+    "description": "Life is a race. If you do not go fine in this race, this race is not for you!! There’s no traffic on the extra mile.",
+    "price": 12,
+    "duration": "1mth"
+  },
+  {
+    "key": 6,
+    "club": "Student Developer Club",
+    "img": "https://i.ibb.co/16SN12S/1-a1-Sy9b-AOy6v-Zz-ILhvh-SYj-A.png",
+    "description": "Get designed by the best. Best destination is to get application developed. Focus on details.",
+    "price": 32,
+    "duration": "1yr"
+  },
+  {
+    "key": 7,
+    "club": "The Sports DB Club",
+    "img": "https://i.ibb.co/rHtRbLY/the-sports-db-api.png",
+    "description": "A bad place to be is between me and the ball. Don’t say “I can’t do it” Just say “ I will do it anyway”.",
+    "price": 45,
+    "duration": "3mth"
+  }
+]
